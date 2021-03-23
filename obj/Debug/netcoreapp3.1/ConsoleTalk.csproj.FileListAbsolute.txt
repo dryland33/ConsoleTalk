@@ -1,0 +1,13 @@
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\bin\Debug\netcoreapp3.1\ConsoleTalk.exe
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\bin\Debug\netcoreapp3.1\ConsoleTalk.deps.json
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\bin\Debug\netcoreapp3.1\ConsoleTalk.runtimeconfig.json
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\bin\Debug\netcoreapp3.1\ConsoleTalk.runtimeconfig.dev.json
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\bin\Debug\netcoreapp3.1\ConsoleTalk.dll
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\bin\Debug\netcoreapp3.1\ConsoleTalk.pdb
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\obj\Debug\netcoreapp3.1\ConsoleTalk.csprojAssemblyReference.cache
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\obj\Debug\netcoreapp3.1\ConsoleTalk.AssemblyInfoInputs.cache
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\obj\Debug\netcoreapp3.1\ConsoleTalk.AssemblyInfo.cs
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\obj\Debug\netcoreapp3.1\ConsoleTalk.csproj.CoreCompileInputs.cache
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\obj\Debug\netcoreapp3.1\ConsoleTalk.dll
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\obj\Debug\netcoreapp3.1\ConsoleTalk.pdb
+C:\Users\Rylan\Documents\PerScholas\c#\ConsoleTalk\obj\Debug\netcoreapp3.1\ConsoleTalk.genruntimeconfig.cache
